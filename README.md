@@ -16,4 +16,4 @@ You need to install following softwares to run this code.
 ## How to run the code?
 
 Now you are done with the packages and installation. Copy code, and run <br>
-- `python app.py --video [video folder path]` <br>
+- `python trim.py --video [video folder path] --outputfilename [output file name without extension] --filetype [GIPHY or MP4] --starttime [start trimmming time e.g 1:24] --endtime [end time e.g.1:30]` <br>
