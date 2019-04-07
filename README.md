@@ -13,7 +13,7 @@ You need to install following softwares to run this code.
 Being developer, you need to showcase your work and for that you have recorderd a video. 
 This sample code have easy implementation and ease to use by single line of command.
 
-Here are sample GIPHY creatd using commands
+Here is sample GIPHY creatd using commands
 
 ![](/screenshots/bunny.gif)
 
